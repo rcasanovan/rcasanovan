@@ -25,16 +25,21 @@ public func getProgrammingLanguages() -> [String] {
     return languages
 }
 
-public func getTools() -> [String] {
-    let tools = ["AWS",
-                 "Parse Server",
-                 "Realm",
-                 "MongoDB",
-                 "Cocoapods",
-                 "Carthage",
-                 "Fastlane",
-                 "Bitrise",
-                 "Zeplin",
+public func getTechTools() -> [String] {
+    let techTools = ["AWS",
+                     "Parse Server",
+                     "Realm",
+                     "MongoDB",
+                     "Cocoapods",
+                     "Carthage",
+                     "Fastlane",
+                     "Bitrise"]
+    
+    return techTools
+}
+
+public func getSoftwareTools() -> [String] {
+    let tools = ["Zeplin",
                  "Abstract",
                  "Jira",
                  "Github",
@@ -44,5 +49,5 @@ public func getTools() -> [String] {
     return tools
 }
 
-let techSkills = getProgrammingLanguages() + getTools()
+let techSkills = getProgrammingLanguages() + getTechTools() + getSoftwareTools()
 ```
