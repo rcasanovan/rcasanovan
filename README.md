@@ -1,3 +1,13 @@
+### Hello mates! I’m looking for my next professional challenge 🍏.
+
+I have 12-14 years of experience developing native apps for iOS with UIKit / SwiftUI as well as the use of different architectures (VIPER, MVVM or TCA).
+
+I live in Valencia, Spain, so I'm open to work remotely for any amazing projects around the world!.
+
+If you are looking for a staff in the iOS area or if you know about a project to change people's lives, you know where I am! ✌🏻.
+
+
+
 ### Hello there 👋
 
 I'm Ricardo - a Computer Science Engineer and a Senior iOS Developer.
