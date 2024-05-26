@@ -1,4 +1,4 @@
-### Hello mates! I’m looking for my next professional challenge 🍏.
+## Hello mates! I’m looking for my next professional challenge 🍏.
 
 I have 12-14 years of experience developing native apps for iOS with UIKit / SwiftUI as well as the use of different architectures (VIPER, MVVM or TCA).
 
