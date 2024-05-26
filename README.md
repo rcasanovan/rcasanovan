@@ -6,11 +6,7 @@ I live in Valencia, Spain, so I'm open to work remotely for any amazing projects
 
 If you are looking for a staff in the iOS area or if you know about a project to change people's lives, you know where I am! ✌🏻.
 
-
-
-
-
-
+##
 
 ### Hello there 👋
 
