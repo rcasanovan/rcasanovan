@@ -8,6 +8,10 @@ If you are looking for a staff in the iOS area or if you know about a project to
 
 
 
+
+
+
+
 ### Hello there 👋
 
 I'm Ricardo - a Computer Science Engineer and a Senior iOS Developer.
