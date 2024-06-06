@@ -10,7 +10,7 @@ If you are looking for a staff in the iOS area or if you know about a project to
 
 ### Hello there 👋
 
-I'm Ricardo - a Computer Science Engineer and a Senior iOS Developer.
+I'm Ricardo - a Computer Science Engineer and a Staff iOS Developer.
 
 I've been creating iOS apps since 2010 and I have a strong experience working with Swift and Objective C, RESTful APIs, architectural paterns like VIPER, MVVM and best software development practices.
 
