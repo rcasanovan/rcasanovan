@@ -62,5 +62,5 @@ public func getSoftwareTools() -> [String] {
      "Bitbucket"]
 }
 
-let techSkills = getProgrammingLanguages() + getArchitectures + getTechTools() + getSoftwareTools()
+let techSkills = getProgrammingLanguages() + getArchitectures() + getTechTools() + getSoftwareTools()
 ```
