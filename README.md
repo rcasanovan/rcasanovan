@@ -24,40 +24,43 @@ I've been creating iOS apps since 2010 and I have a strong experience working wi
 ## Technical skils
 ```swift
 public func getProgrammingLanguages() -> [String] {
-    let languages = ["Swift",
-                     "Objective C",
-                     "C",
-                     "Java",
-                     "C++",
-                     "C#",
-                     "Javascript"]
-    
-    return languages
+    ["Swift",
+     "SwiftUI",
+     "UIKit",
+     "Objective C",
+     "C",
+     "Java",
+     "C++",
+     "C#",
+     "Javascript"]
+}
+
+public func getArchitectures() -> [String] {
+    ["TCA",
+     "VIPER",
+     "MVVM",
+     "MVC"]
 }
 
 public func getTechTools() -> [String] {
-    let techTools = ["AWS",
-                     "Parse Server",
-                     "Realm",
-                     "MongoDB",
-                     "Cocoapods",
-                     "Carthage",
-                     "Fastlane",
-                     "Bitrise"]
-    
-    return techTools
+    ["AWS",
+     "Parse Server",
+     "Realm",
+     "MongoDB",
+     "Cocoapods",
+     "Carthage",
+     "Fastlane",
+     "Bitrise",
+     "CircleCI"]
 }
 
 public func getSoftwareTools() -> [String] {
-    let tools = ["Zeplin",
-                 "Abstract",
-                 "Jira",
-                 "Github",
-                 "Bitbucket",
-                 "Planing Poker"]
-    
-    return tools
+    ["Figma",
+     "Zeplin",
+     "Jira",
+     "Github",
+     "Bitbucket"]
 }
 
-let techSkills = getProgrammingLanguages() + getTechTools() + getSoftwareTools()
+let techSkills = getProgrammingLanguages() + getArchitectures + getTechTools() + getSoftwareTools()
 ```
