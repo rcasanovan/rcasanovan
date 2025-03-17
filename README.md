@@ -16,15 +16,19 @@ Since 2010, I've been crafting seamless user experiences using Swift, SwiftUI, U
 🛠 Tech Stack
 
 🔹 Programming Languages
+
 ["Swift", "SwiftUI", "UIKit", "Objective-C", "C", "Java", "C++", "C#", "JavaScript"]
 
 📐 Architectures & Design Patterns
+
 ["TCA", "VIPER", "MVVM", "MVC"]
 
 ☁️ Tools & Frameworks
+
 ["AWS", "Parse Server", "Realm", "MongoDB", "SPM", "CocoaPods", "Carthage", "Fastlane", "Bitrise", "CircleCI", "GitHubActions"]
 
 🎨 Productivity & Software Tools
+
 ["Figma", "Zeplin", "Jira", "GitHub", "Bitbucket"]
 
 💡 Passionate about clean architecture, scalable solutions, and continuous learning. Always open to new challenges and collaborations! 🚀
