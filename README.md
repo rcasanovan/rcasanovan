@@ -9,7 +9,9 @@ Since 2010, I've been crafting seamless user experiences using Swift, SwiftUI, U
 💡 My Core Values
 
 🦾 Self-trust & Accountability – I believe in my skills and take ownership of my actions.
+
 🤝 Collaboration over Individualism – No single person has all the answers; great solutions emerge from diverse perspectives.
+
 🚀 True Teamwork – A team is more than a group of people—it’s a shared mission, moving in the same direction.
 
 ##
@@ -32,4 +34,3 @@ Since 2010, I've been crafting seamless user experiences using Swift, SwiftUI, U
 ["Figma", "Zeplin", "Jira", "GitHub", "Bitbucket"]
 
 💡 Passionate about clean architecture, scalable solutions, and continuous learning. Always open to new challenges and collaborations! 🚀
-##
